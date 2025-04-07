@@ -15,11 +15,9 @@
 
 ### 🧐 Về Mình
 
-- 🔭 Hiện tại mình đang tập trung **nâng cao kỹ năng phát triển web**
-- 🌱 Mình đang học **các framework JavaScript nâng cao**
-- 👯 Mình muốn hợp tác với các **dự án mã nguồn mở**
-- 💬 Hãy hỏi mình về **JavaScript, TypeScript, Python**
-- ⚡ Thông tin thú vị: **Mình code tốt hơn khi uống cà phê**
+- 🔭 Đang tìm hiểu về **kỹ năng phát triển web**
+- 🌱 Đang học nhiều ngôn ngữ lập trình khác nhau **JS,HTML,CSS,TS,PYTHON,...**
+- ⚡ Thông tin thú vị: **Dành nhiều thời gian cho code**
 
 ---
 

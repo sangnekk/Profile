@@ -44,23 +44,27 @@
 
 ### 🎮 Discord 
 
+### 🎮 Discord Presence
+
 <div align="center">
   <img src="https://img.shields.io/badge/Discord-sang0023-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </div>
 
 <table align="center">
   <tr>
-    <td align="center" width="130px" valign="top">
+    <td align="center" width="150px" valign="top">
       <img width="100" height="100" src="https://cdn.discordapp.com/avatars/920508073423028274/4810e17212ad70d83e36b63ac0a4b30d.webp">
       <br>
-      <img src="https://img.shields.io/badge/🔴_DND-red?style=for-the-badge&labelColor=black" alt="Status">
+      <img src="https://img.shields.io/badge/🔴_DND-red?style=flat-square" alt="Status">
     </td>
     <td align="left">
       <h3>Sáng <code>#sang0023</code></h3>
       <p>
         <img src="https://img.shields.io/badge/OWNER-e91e63?style=flat-square" alt="Role">
-        <img src="https://img.shields.io/badge/HYPESQUAD_BRAVERY-9C84EF?style=flat-square" alt="HypeSquad">
-        <img src="https://img.shields.io/badge/ACTIVE_DEVELOPER-5865F2?style=flat-square" alt="Active Dev">
+      </p>
+      <p>
+        <img src="https://cdn.discordapp.com/badge-icons/8a88d63823d8a71cd5e390baa45efa02.png" width="20" height="20" alt="HypeSquad Bravery">
+        <img src="https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png" width="20" height="20" alt="Active Developer">
       </p>
       <h4>📱 ĐANG HOẠT ĐỘNG</h4>
       <blockquote>
@@ -71,6 +75,8 @@
     </td>
   </tr>
 </table>
+
+<!-- Thông tin này được cập nhật tự động từ API: https://api.sangnguyen07.io.vn/api/service/discord -->
 
 <!-- Thông tin này được cập nhật tự động từ API: https://api.sangnguyen07.io.vn/api/service/discord -->
 

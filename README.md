@@ -57,7 +57,7 @@
     <td align="center" width="150px" valign="top">
       <img width="100" height="100" src="https://cdn.discordapp.com/avatars/920508073423028274/4810e17212ad70d83e36b63ac0a4b30d.webp">
       <br>
-      <img src="https://img.shields.io/badge/🔴-FFFFFF?style=flat-square&color=FFFFFF&labelColor=FFFFFF" alt="Status">
+      <img src="https://img.shields.io/badge/🔴-transparent?style=flat-square&labelColor=transparent" alt="Status">
     </td>
     <td align="left">
       <h3>Sáng <code>#sang0023</code></h3>

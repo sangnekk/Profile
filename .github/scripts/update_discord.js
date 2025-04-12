@@ -40,6 +40,7 @@ async function fetchDiscordData() {
     }
     
     const data = await response.json();
+    console.log("Received data:", JSON.stringify(data, null, 2));
     return data;
   } catch (error) {
     console.error("Error fetching Discord data:", error);
@@ -76,22 +77,23 @@ function formatActivity(activities) {
     return "Không có hoạt động";
   }
   
+  // Ưu tiên hiển thị bất kỳ hoạt động nào có sẵn, không chỉ giới hạn ở type 0
   for (const activity of activities) {
-    if (activity.type === 0) { // Đang chơi game
-      const name = activity.name || "";
-      const details = activity.details || "";
-      const state = activity.state || "";
-      
-      let activityText = `<b>${name}</b><br>`;
-      if (details) {
-        activityText += `<i>${details}</i><br>`;
-      }
-      if (state) {
-        activityText += `${state}`;
-      }
-      
-      return activityText;
+    const name = activity.name || "";
+    const details = activity.details || "";
+    const state = activity.state || "";
+    
+    let activityText = `<b>${name}</b>`;
+    
+    if (details) {
+      activityText += `<br><i>${details}</i>`;
     }
+    
+    if (state) {
+      activityText += `<br>${state}`;
+    }
+    
+    return activityText;
   }
   
   return "Đang hoạt động";
@@ -159,7 +161,7 @@ function generateDiscordSection(data) {
   } else {
     discordHtml += `
       <p>
-        <img src="https://img.shields.io/badge/OWNER-e91e63?style=flat-square" alt="Role">
+        <img src="https://img.shields.io/badge/Owner-e91e63?style=flat-square" alt="Role">
       </p>`;
   }
   

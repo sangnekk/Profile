@@ -49,8 +49,9 @@
 ### 🎮 Discord 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Discord-sang0023-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  <img src="https://discord-readme-badge.vercel.app/api?id=920508073423028274" alt="Discord Presence" />
+  <a href="https://discord.com/users/920508073423028274">
+    <img src="https://lanyard.cnrad.dev/api/920508073423028274?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Đang%20làm%20gì%20đó..." alt="Discord Presence" width="450px" />
+  </a>
 </div>
 
 <table align="center">
@@ -77,7 +78,7 @@
   </tr>
 </table>
 
-<!-- Cập nhật vào: 01:50:30 13/4/2025 -->
+<!-- Cập nhật vào: 02:04:47 13/4/2025 -->
 <!-- Thông tin này được cập nhật tự động từ API: https://api.sangnguyen07.io.vn/api/service/discord -->
 
 ---

@@ -2,7 +2,7 @@ name: Update Discord Presence
 
 on:
   schedule:
-    - cron: '3 * * * *'  # Chạy mỗi 6 giờ
+    - cron: '*/5 * * * *'  # Chạy mỗi 5 phút
   workflow_dispatch:  # Cho phép chạy thủ công từ giao diện GitHub
 
 jobs:

@@ -1,10 +1,8 @@
 <h1 align="center">Xin chào, mình là Sáng</h1>
 <h3 align="center">Một người đam mê về lập trình</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Lập+Trình+Viên+Tự+Do;Luôn+Học+Hỏi+Và+Tìm+Tòi+Về+Code&center=true&width=380&height=45">
 </p>
-
 <p align="center">
   <a href="https://sangnguyen07.io.vn"><img src="https://img.shields.io/badge/Website-sangnguyen07.io.vn-blue?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.facebook.com/sangdeptryk7"><img src="https://img.shields.io/badge/Facebook-@sangdeptryk7-0866FF?style=flat-square&logo=facebook"></a>
@@ -14,7 +12,6 @@
 ---
 
 ### 🧐 Về Mình
-
 - 🔭 Đang tìm hiểu về **kỹ năng phát triển web**
 - 🌱 Đang học nhiều ngôn ngữ lập trình khác nhau **JS,HTML,CSS,TS,PYTHON,...**
 - ⚡ Thông tin thú vị: **Dành nhiều thời gian cho code**
@@ -22,7 +19,6 @@
 ---
 
 ### 🚀 Công Nghệ Sử Dụng
-
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -32,7 +28,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
 <details>
   <summary>💻 Các Kỹ Năng Khác</summary>
   <br>
@@ -47,13 +42,45 @@
 
 ---
 
-### 📊 Thống Kê GitHub
+### 🎮 Discord 
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Discord-sang0023-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="130px" valign="top">
+      <img width="100" height="100" src="https://cdn.discordapp.com/avatars/920508073423028274/4810e17212ad70d83e36b63ac0a4b30d.webp">
+      <br>
+      <img src="https://img.shields.io/badge/🔴_DND-red?style=for-the-badge&labelColor=black" alt="Status">
+    </td>
+    <td align="left">
+      <h3>Sáng <code>#sang0023</code></h3>
+      <p>
+        <img src="https://img.shields.io/badge/OWNER-e91e63?style=flat-square" alt="Role">
+        <img src="https://img.shields.io/badge/HYPESQUAD_BRAVERY-9C84EF?style=flat-square" alt="HypeSquad">
+        <img src="https://img.shields.io/badge/ACTIVE_DEVELOPER-5865F2?style=flat-square" alt="Active Dev">
+      </p>
+      <h4>📱 ĐANG HOẠT ĐỘNG</h4>
+      <blockquote>
+        <b>My profile</b><br>
+        <i>Studying High School</i><br>
+        Developer - Student - Normal People
+      </blockquote>
+    </td>
+  </tr>
+</table>
+
+<!-- Thông tin này được cập nhật tự động từ API: https://api.sangnguyen07.io.vn/api/service/discord -->
+
+---
+
+### 📊 Thống Kê GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sangnekk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangnekk&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangnekk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -61,7 +88,6 @@
 ---
 
 ### 🏆 Danh Hiệu GitHub
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sangnekk&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
 </p>

@@ -11,9 +11,9 @@
 
 ---
 
-### 🧐 Về Mình
+### 👨‍💻 Về Mình
 - 🔭 Đang tìm hiểu về **kỹ năng phát triển web**
-- 🌱 Đang học nhiều ngôn ngữ lập trình khác nhau **JS,HTML,CSS,TS,PYTHON,...**
+- 🌱 Đang học nhiều ngôn ngữ lập trình khác nhau **JS, HTML, CSS, TS, PYTHON,...**
 - ⚡ Thông tin thú vị: **Dành nhiều thời gian cho code**
 
 ---
@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
+
 <details>
   <summary>💻 Các Kỹ Năng Khác</summary>
   <br>
@@ -37,6 +38,9 @@
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </p>
 </details>
 
@@ -44,10 +48,9 @@
 
 ### 🎮 Discord 
 
-### 🎮 Discord Presence
-
 <div align="center">
   <img src="https://img.shields.io/badge/Discord-sang0023-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <img src="https://discord-readme-badge.vercel.app/api?id=920508073423028274" alt="Discord Presence" />
 </div>
 
 <table align="center">
@@ -60,24 +63,21 @@
     <td align="left">
       <h3>Sáng <code>#sang0023</code></h3>
       <p>
-        <img src="https://img.shields.io/badge/OWNER-e91e63?style=flat-square" alt="Role">
+        <img src="https://img.shields.io/badge/Owner-e91e63?style=flat-square" alt="Role">
       </p>
       <p>
-        <img src="https://cdn.discordapp.com/badge-icons/8a88d63823d8a71cd5e390baa45efa02.png" width="20" height="20" alt="HypeSquad Bravery">
-        <img src="https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png" width="20" height="20" alt="Active Developer">
+        <img src="https://cdn.discordapp.com/badge-icons/8a88d63823d8a71cd5e390baa45efa02.png" width="20" height="20" alt="HypeSquadOnlineHouse1">
+        <img src="https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png" width="20" height="20" alt="ActiveDeveloper">
       </p>
       <h4>📱 ĐANG HOẠT ĐỘNG</h4>
       <blockquote>
-        <b>My profile</b><br>
-        <i>Studying High School</i><br>
-        Developer - Student - Normal People
+        <b>My profile</b><br><i>Studying High School</i><br>Developer - Student - Normal People
       </blockquote>
     </td>
   </tr>
 </table>
 
-<!-- Thông tin này được cập nhật tự động từ API: https://api.sangnguyen07.io.vn/api/service/discord -->
-
+<!-- Cập nhật vào: 01:50:30 13/4/2025 -->
 <!-- Thông tin này được cập nhật tự động từ API: https://api.sangnguyen07.io.vn/api/service/discord -->
 
 ---

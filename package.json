@@ -1,0 +1,17 @@
+{
+  "name": "sangnekk-github-profile",
+  "version": "1.0.0",
+  "description": "GitHub Profile của Sáng",
+  "private": true,
+  "scripts": {
+    "update-discord": "node .github/scripts/update_discord.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "author": "Sáng",
+  "license": "MIT"
+}
